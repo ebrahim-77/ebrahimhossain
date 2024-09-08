@@ -45,7 +45,7 @@
 <h2 align="center" style="color:#BA55D3;">🐍 My Contributions 🐍</h2>
 <br/>
 <div align="center">
-    <img alt="snake eating my contributions" src="https://github.com/connectalamin/connectalamin/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://github.com/connectalamin/connectalamin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </div>
 
 <hr/>
