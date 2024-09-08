@@ -43,20 +43,32 @@
 <h2 align="center" style="color:#BA55D3;">🐍 My Contributions 🐍</h2>
 <br/>
 <div align="center">
-    <img alt="snake eating my contributions" src="https://github.com/connectalamin/connectalamin/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+    <img alt="snake eating my contributions" src="https://github.com/connectalamin/connectalamin/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center" style="color:#BA55D3;">⚡ Stats ⚡</h2>
 <br>
-
 <div align="center">
-    <!-- GitHub Readme stats -->
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=connectalamin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <!-- Streak stats -->
+  <img width=390 src="https://streak-stats.demolab.com/?user=connectalamin&theme=radical&border_radius=10" alt="streak stats"/>
+  <br/><br/>
+  <!-- GitHub Readme stats -->
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=connectalamin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/><br/>
+  <!-- Top languages -->
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=connectalamin&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<div align="center">
-    <!-- Top languages -->
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=connectalamin&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+
+<br/>
+
+
+
