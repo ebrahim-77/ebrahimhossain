@@ -57,7 +57,7 @@
   <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=connectalamin&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   
   <!-- GitHub Readme stats -->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=connectalamin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=connectalamin&theme=github-dark&hide_border=true)?username=connectalamin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
   <br/>
   
