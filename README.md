@@ -2,7 +2,7 @@
 
 <!--
 **connectalamin/connectalamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Alamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=connectalamin)](https://github.com/connectalamin/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
