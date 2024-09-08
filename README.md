@@ -1,8 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=connectalamin.connectalamin" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Mono&color=8A2BE2&background=28FFEE00?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Al+Amin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Mono&color=8A2BE2&background=28FFEE00&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Al+Amin!;" />
 </h1>
+
 
 <h3 align="center" style="color:#8A2BE2;">A passionate software developer from Bangladesh </h3>
 
