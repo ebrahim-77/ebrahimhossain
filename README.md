@@ -13,10 +13,9 @@
 </div>
 
 <div align="center"> 
-   <a href="mailto:alamin1045@gmail.com">
+    <a href="mailto:alamin1045@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-BA55D3?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    
     <a href="https://linkedin.com/in/connect-alamin" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-BA55D3?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -51,7 +50,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
 
 <div align="center">
     <!-- GitHub Readme stats -->
