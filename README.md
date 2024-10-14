@@ -7,13 +7,13 @@
 <br/>
 
 <div align="center">
-    🔭 I’m currently working on **nothing😎**
+    🔭 I’m currently working on an Ecommerce App
     <br/>
     🌱 I’m currently learning **Docker, React, PostgreSQL**
 </div>
 
 <div align="center"> 
-    <a href="mailto:alamin1045@gmail.com">
+    <a href="mailto:connect.alamin@outlook.com">
         <img src="https://img.shields.io/badge/Gmail-BA55D3?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://linkedin.com/in/connect-alamin" target="_blank">
