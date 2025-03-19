@@ -51,9 +51,9 @@
 <h2 align="center" style="color:#BA55D3;">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <!-- Streak stats -->
-  <img width=390 src="https://streak-stats.demolab.com/?user=connectalamin&theme=radical&border_radius=10" alt="streak stats"/>
-  <br/><br/>
+ <img alt="Visitor Stats" 
+        src="https://widgetbite.com/stats/connectalamin"/>
+     <br/><br/>
   <!-- GitHub Readme stats -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=connectalamin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/><br/>
