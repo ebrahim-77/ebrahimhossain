@@ -42,7 +42,7 @@
   <a href="mailto:connect.alamin@outlook.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
   <a href="https://wa.me/your-number"><img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
   <a href="https://t.me/your-telegram"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
-  <a href="https://connectalamin.github.io"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
+  <a href="https://connect-alamin.vercel.app"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>
 </div>
 
 ---
